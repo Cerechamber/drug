@@ -1,0 +1,22 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" class="stomach" xmlns="http://www.w3.org/2000/svg" width="1440" height="761" viewBox="0 0 1440 761" fill="none">
+                <path fill="url(&quot;#paint0_linear&quot;)" d="M1150 8.61221C843.181 86.7086 842.5 458.768 441.962 309.552C303.655 258.027 114.83 309.891 -2 358.578V402.142C-2 402.142 307 260.5 606.5 613.5C906 966.5 1440 575 1440 575V93.9001C1322.5 37.0415 1272.82 -22.6491 1150 8.61221Z"></path>
+                <defs>
+                    <linearGradient id="paint0_linear" x1="1318" y1="521.112" x2="187.078" y2="644.159" gradientUnits="userSpaceOnUse">
+                        <stop offset="0%" stop-color="#590D56" stop-opacity="1">
+                            <animate attributeName="stop-color" values="#590D56" dur="6s" repeatCount="indefinite"></animate>
+                        </stop>
+                        <stop offset="100%" stop-color="#8C1688" stop-opacity="0.75">
+                            <animate attributeName="stop-color" values="#8C1688" dur="6s" repeatCount="indefinite"></animate>
+                            <animate attributeName="offset" values=".95;.80;.60;.50;.70;.90;.95" dur="6s" repeatCount="indefinite"></animate>
+                        </stop>
+                    </linearGradient>
+                <linearGradient id="paint0_linear" x1="1318" y1="521.112" x2="187.078" y2="644.159" gradientUnits="userSpaceOnUse">
+                        <stop offset="0%" stop-color="#590D56" stop-opacity="1">
+                            <animate attributeName="stop-color" values="#590D56" dur="6s" repeatCount="indefinite"></animate>
+                        </stop>
+                        <stop offset="100%" stop-color="#8C1688" stop-opacity="0.75">
+                            <animate attributeName="stop-color" values="#8C1688" dur="6s" repeatCount="indefinite"></animate>
+                            <animate attributeName="offset" values=".95;.80;.60;.50;.70;.90;.95" dur="6s" repeatCount="indefinite"></animate>
+                        </stop>
+                    </linearGradient></defs>
+            </svg>
